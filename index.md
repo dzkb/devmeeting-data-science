@@ -20,6 +20,7 @@
 - [Podział uczenia maszynowego](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 - [Wizualizacja działania sieci neuronowych](https://playground.tensorflow.org/)
 - Zbiór przykładów [Seedbank](https://research.google.com/seedbank/)
+- Kurs Andrew Ng - [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 ## Książki
 
