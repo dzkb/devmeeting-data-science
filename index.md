@@ -5,13 +5,13 @@
 ### 1. [Pandas](https://drive.google.com/open?id=1Dj9P-fScRAFzLrLSQNazoJ2PsnB51Y1m)
 ### 2. [Scikit-learn](https://drive.google.com/open?id=1l3zaFAG3tgJR101lFpnV6aJGkOBxELnq) [[model.pkl]](models/model.pkl)
 ### 3. [Keras](https://drive.google.com/open?id=1afrNa9SUiUtqHDyZrI9fiK4CqekmuFlr)
-### - [Ankieta](http://bit.ly/DSWawa)
 ### 4. [Flask](https://drive.google.com/open?id=1hIOwcLRkn3WSHkjvrN4wK8a-HsXbcCAN)
 
 ## Dodatkowe materiały
 
 - Dokumentacja [pandas](https://pandas.pydata.org/pandas-docs/stable/)
 - Dokumentacja [scikit-learn](https://scikit-learn.org/stable/documentation.html)
+- Dokumentacja [Keras](https://keras.io/)
 - Dokumentacja [flask](http://flask.pocoo.org/docs/1.0/)
 
 ## Dalsza nauka
@@ -24,5 +24,6 @@
 
 ## Książki
 
+- Guido S., Müller A., _Introduction to Machine Learning with Python_, O'Reilly Media, 2016
 - Murphy K. P., _Machine Learning: A Probabilistic Perspective_, 2012
 - Goodfellow I., Bengio Y., Courville A., _Deep Learning_, 2016, dostępna [online](https://www.deeplearningbook.org/)
