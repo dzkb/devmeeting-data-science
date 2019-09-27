@@ -2,6 +2,8 @@
 
 ### https://bit.ly/devmeeting-datascience
 
+### Pracujemy na platformie [Colaboratory](https://colab.research.google.com).
+
 ### 1. [Pandas](https://drive.google.com/open?id=1WHN3sQ-KIoJOjX12JL7zHYG11jwENBfO)
 ### 2. [Scikit-learn](https://drive.google.com/open?id=1eoT1GLy3L_ENwvddcQGN1bN6LezkHTv1) [[model.pkl]](models/model.pkl)
 ### 3. [Keras](https://drive.google.com/open?id=18JfT4Hu0N0BmDmOT6j6vJX5uYQ7ty4Xs)
