@@ -4,10 +4,13 @@
 
 ### Pracujemy na platformie [Colaboratory](https://colab.research.google.com).
 
-### 1. [Pandas](https://drive.google.com/open?id=1WHN3sQ-KIoJOjX12JL7zHYG11jwENBfO)
-### 2. [Scikit-learn](https://drive.google.com/open?id=1eoT1GLy3L_ENwvddcQGN1bN6LezkHTv1) [[model.pkl]](models/model.pkl)
-### 3. [Keras](https://drive.google.com/open?id=18JfT4Hu0N0BmDmOT6j6vJX5uYQ7ty4Xs)
-### 4. [Flask](https://drive.google.com/open?id=1qFbZG5vEEkF0qI5sWdyOIibcP1MaovSq)
+### 1. [Pandas](https://colab.research.google.com/drive/1WHN3sQ-KIoJOjX12JL7zHYG11jwENBfO)
+### 2. [EDA](https://colab.research.google.com/drive/1fugPE1mGIm9H45hjhuzjn0ukERAhnDRC)
+### 3. [Scikit-learn – kNN](https://colab.research.google.com/drive/1qnBSPNuX17w_KqZI-01GCuhLtOI2MWSP)
+### [Ankieta dla uczestników](http://bit.ly/wroDS)
+### 4. [Scikit-learn – drzewa decyzyjne](https://colab.research.google.com/drive/1nIiSmvQCgjTV5WkiJM8rgkP_nQj0pzXr)
+
+<!-- ### [Jestem zainteresowana/y szkoleniem w mojej firmie](bit.do/devmet) -->
 
 ## Dodatkowe materiały
 
